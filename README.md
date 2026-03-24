@@ -32,7 +32,7 @@ A Java desktop application that solves any valid Sudoku puzzle using a recursive
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/sudoku-solver.git
+   git clone https://github.com/EthanNair/sudoku-solver.git
    cd sudoku-solver
    ```
 
